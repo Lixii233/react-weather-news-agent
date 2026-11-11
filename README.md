@@ -3,7 +3,6 @@
 用 ReAct（Reasoning + Acting）模式让模型自己决定"调哪个工具"，把实时天气与新闻查询接进对话。
 
 - 技术栈：Python · LangChain · FastAPI · OpenWeatherMap API · Tavily Search API
-- 时间：2026.05 – 2026.06
 - 状态：本地可运行，未部署线上
 
 ## 1. 解决什么问题
